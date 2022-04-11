@@ -1,0 +1,10 @@
+.profile {
+  color: #29d15e;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.profile p{
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+}
